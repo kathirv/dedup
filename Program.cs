@@ -13,7 +13,7 @@ namespace Dedup
     {
         public static void Main(string[] args)
         {
-			//host app
+			//host app kathir
             CreateHostBuilder(args).Build().Run();
         }
 
